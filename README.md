@@ -129,14 +129,6 @@ cub3D/
 
 ---
 
-## 👤 Author
-
-- **aiturria**
-- **angcampo**  
-  42 Málaga
-
----
-
 ## 📄 License
 
 This project is for educational purposes as part of the 42 curriculum.
